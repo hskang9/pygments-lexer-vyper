@@ -1,4 +1,4 @@
-pygments-lexer-solidity
+pygments-lexer-vyper
 =======================
 
 Vyper lexer for Pygments, distributed as a PyPI package.
